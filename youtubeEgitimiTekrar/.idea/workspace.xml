@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b29022bb-578c-4eab-a588-410e121cc858" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YouTubeEgitimi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaseCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CarCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ICreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MilitaryCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeacherCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/hw3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/out/production/hw3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/oppWithNLayeredApp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/oppWithNLayeredApp/business/CategoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/oppWithNLayeredApp/business/CourseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/oppWithNLayeredApp/core/logging/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/oppWithNLayeredApp/core/logging/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/oppWithNLayeredApp/core/logging/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/oppWithNLayeredApp/core/logging/MailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/oppWithNLayeredApp/dataAccess/CommonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/oppWithNLayeredApp/dataAccess/HibernateDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/oppWithNLayeredApp/dataAccess/JdbcDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/oppWithNLayeredApp/entites/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/oppWithNLayeredApp/entites/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/oppWithNLayeredApp/entites/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/oopWithNLayeredApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/src/oppWithNLayeredApp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/src/oppWithNLayeredApp/business/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/src/oppWithNLayeredApp/core/logging/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/src/oppWithNLayeredApp/core/logging/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/src/oppWithNLayeredApp/core/logging/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/src/oppWithNLayeredApp/core/logging/MailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/src/oppWithNLayeredApp/dataAccess/HibernateProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/src/oppWithNLayeredApp/dataAccess/JdbcProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/src/oppWithNLayeredApp/dataAccess/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/src/oppWithNLayeredApp/entites/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/arkadasSayilar/arkadasSayilar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/arraysDemo/arraysDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/conditionals/conditionals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/datatypes/datatypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/introjava(HelloWord!)/introjava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/loopDemo/loopDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/miniProjeAsaySayi/miniProjeAsaySayi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/mukemmelSayi/mukemmelSayi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/oop1/oop1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/reCapDemo2/reCapDemo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/recapdemo1/recapdemo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/sayiBulma/sayiBulma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/sesliHarfler/sesliHarfler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/stringsDemo/stringsDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/switchDemo/switchDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/variables/variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractClasses/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractClasses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractClasses/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractClasses/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractClasses/abstractClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractClasses/src/GameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractClasses/src/KidsGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractClasses/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractClasses/src/ManGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractClasses/src/OlderGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractClasses/src/WomanGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractDemo/abstractDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractDemo/src/BaseDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractDemo/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractDemo/src/MySqlDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractDemo/src/OracleDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/abstractDemo/src/SqlServerDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaceDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaceDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaceDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaceDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaceDemo/interfaceDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaceDemo/src/IEateble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaceDemo/src/IPayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaceDemo/src/IWorkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaceDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaceDemo/src/OutsourceWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaceDemo/src/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaceDemo/src/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaces/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaces/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaces/interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaces/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaces/src/ICustomerDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaces/src/IRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaces/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaces/src/MySqlCustomerDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaces/src/OracleCustomerDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/interfaces/src/SqlServerCustomerDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/overriding/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/overriding/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/overriding/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/overriding/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/overriding/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/overriding/overriding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/overriding/src/BaseCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/overriding/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/overriding/src/OgrenciCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/overriding/src/OgretmenCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/overriding/src/TarimCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/polymorphismDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/polymorphismDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/polymorphismDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/polymorphismDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/polymorphismDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/polymorphismDemo/polymorphismDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/polymorphismDemo/src/BaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/polymorphismDemo/src/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/polymorphismDemo/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/polymorphismDemo/src/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/polymorphismDemo/src/EmailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/polymorphismDemo/src/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/polymorphismDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/staticDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/staticDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/staticDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/staticDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/staticDemo/src/DatabaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/staticDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/staticDemo/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/staticDemo/src/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/staticDemo/src/ProductValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/staticDemo/staticDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arkadasSayilar/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arkadasSayilar/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arkadasSayilar/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arkadasSayilar/arkadasSayilar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arkadasSayilar/out/production/arkadasSayilar/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arkadasSayilar/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysDemo/arraysDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysDemo/out/production/arraysDemo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraysDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditionals/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditionals/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditionals/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditionals/conditionals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditionals/out/production/conditionals/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditionals/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datatypes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datatypes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datatypes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datatypes/datatypes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datatypes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../introjava(HelloWord!)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../introjava(HelloWord!)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../introjava(HelloWord!)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../introjava(HelloWord!)/introjava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../introjava(HelloWord!)/out/production/introjava/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../introjava(HelloWord!)/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loopDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loopDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loopDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loopDemo/loopDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loopDemo/out/production/loopDemo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loopDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniProjeAsaySayi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniProjeAsaySayi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniProjeAsaySayi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniProjeAsaySayi/miniProjeAsaySayi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniProjeAsaySayi/out/production/miniProjeAsaySayi/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniProjeAsaySayi/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mukemmelSayi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mukemmelSayi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mukemmelSayi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mukemmelSayi/mukemmelSayi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mukemmelSayi/out/production/mukemmelSayi/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mukemmelSayi/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiDimensionalArrayDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiDimensionalArrayDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiDimensionalArrayDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiDimensionalArrayDemo/out/production/multiDimensionalArrayDemo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiDimensionalArrayDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo2/out/production/reCapDemo2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo2/reCapDemo2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapdemo1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapdemo1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapdemo1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapdemo1/out/production/recapdemo1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapdemo1/recapdemo1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapdemo1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/out/production/sayiBulma/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/sayiBulma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesliHarfler/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesliHarfler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesliHarfler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesliHarfler/out/production/sesliHarfler/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesliHarfler/sesliHarfler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesliHarfler/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringsDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringsDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringsDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringsDemo/out/production/stringsDemo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringsDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringsDemo/stringsDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switchDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switchDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switchDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switchDemo/out/production/switchDemo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switchDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switchDemo/switchDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/out/production/variables/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/variables.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FqVIsX0ZOFQnFg8MBAJqHTWur0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b29022bb-578c-4eab-a588-410e121cc858" name="Changes" comment="" />
+      <created>1665219524917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665219524917</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
